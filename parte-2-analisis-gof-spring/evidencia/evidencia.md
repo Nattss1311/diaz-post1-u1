@@ -211,4 +211,16 @@ Captura del panel lateral de VS Code con el árbol de directorios desplegado mos
 ![Checkpoint 10 - estructura](estructura.png)
 
 
+## Checkpoint 14: Verificación Final en GitHub (Estructura y Commits)
+
+### 1. Historial Completo de Commits
+Se verifica que el repositorio registra el historial cronológico de cambios de ambas partes (refactorización SOLID y análisis de patrones GoF) utilizando la convención *Conventional Commits* (`feat:`, `refactor:`, `docs:`, `chore:`).
+
+![Checkpoint 14 - Historial de Commits](commit.png)
+
+### 2. Vista Principal del Repositorio y README Renderizado
+Se confirma la presencia de la estructura del proyecto con las dos carpetas principales (`parte-1-refactorizacion-solid/` y `parte-2-analisis-gof-spring/`), los archivos de configuración y el `README.md` renderizado correctamente con la tabla resumen de patrones GoF y las conclusiones del proyecto.
+
+![Checkpoint 14 - Repositorio en GitHub](readme_subido.png)
+![Checkpoint 14 - Repositorio en GitHub](archivos.png)
 
